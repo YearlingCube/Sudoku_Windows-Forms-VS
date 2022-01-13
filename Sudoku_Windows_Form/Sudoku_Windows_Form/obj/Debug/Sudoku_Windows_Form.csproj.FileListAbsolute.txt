@@ -1,0 +1,9 @@
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\bin\Debug\Sudoku_Windows_Form.exe.config
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\bin\Debug\Sudoku_Windows_Form.exe
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\bin\Debug\Sudoku_Windows_Form.pdb
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\obj\Debug\Sudoku_Windows_Form.csprojAssemblyReference.cache
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\obj\Debug\Sudoku_Windows_Form.Form1.resources
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\obj\Debug\Sudoku_Windows_Form.Properties.Resources.resources
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\obj\Debug\Sudoku_Windows_Form.csproj.GenerateResource.cache
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\obj\Debug\Sudoku_Windows_Form.exe
+C:\Users\matho347\source\repos\Sudoku_Windows_Form\Sudoku_Windows_Form\obj\Debug\Sudoku_Windows_Form.pdb
